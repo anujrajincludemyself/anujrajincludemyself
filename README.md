@@ -4,7 +4,7 @@ I'm a developer and B.Tech student passionate about web development, AI, and pro
 
 - 🔭 I’m currently working on a new SaaS project.
 - 🌱 I’m currently learning more about machine learning.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/feed/) or [anujraj24go@gmail.com](mailto:anujraj24go@gmail.com)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/anujrajmish) or [anujraj24go@gmail.com](mailto:anujraj24go@gmail.com)
 
 ---
 
