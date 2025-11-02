@@ -1,6 +1,6 @@
 # Hi, I'm Anuj Raj 👋
 
-I'm a developer and B.Tech student passionate about web development, AI, and problem-solving.
+I'm a developer and B.Tech student passionate about web development, AI, and problem-solving . 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anujrajincludemyself&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
