@@ -1,4 +1,4 @@
-# Hi, I'm Anuj Mishra 👋
+# Hi, I'm Anuj Raj 👋
 
 I'm a developer and B.Tech student passionate about web development, AI, and problem-solving.
 
