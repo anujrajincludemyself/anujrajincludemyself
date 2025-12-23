@@ -41,11 +41,11 @@ I'm a developer and B.Tech student passionate about web development, AI, and pro
 
 ### 📊 My GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&theme=radical" alt="Anuj's GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anujrajincludemyself&theme=radical" />
