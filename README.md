@@ -91,9 +91,6 @@ Passionate about building scalable web applications, learning AI/ML, and solving
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/anujrajincludemyself/anujrajincludemyself/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
