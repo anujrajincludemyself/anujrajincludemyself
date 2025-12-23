@@ -91,10 +91,10 @@ Passionate about building scalable web applications, learning AI/ML, and solving
 
 ---
 
-## 🐍 Snake Eating My Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anujrajincludemyself/anujrajincludemyself/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/anujrajincludemyself/anujrajincludemyself/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
