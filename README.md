@@ -71,18 +71,7 @@ Passionate about building scalable web applications, learning AI/ML, and solving
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anujrajincludemyself&theme=radical&hide_border=true"/>
-</p>
-
----
 
 ## 🔥 Contribution Activity Graph
 <p align="center">
