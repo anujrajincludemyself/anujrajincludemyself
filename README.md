@@ -70,14 +70,14 @@ Passionate about building scalable web applications, learning AI/ML, and solving
 </p>
 
 ---
-
 ## 📊 Language Usage (Auto-Generated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&theme=radical&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400"
+  />
 </p>
 
----
 
 ## 🔥 Contribution Activity Graph
 <p align="center">
