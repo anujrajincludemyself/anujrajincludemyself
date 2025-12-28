@@ -10,8 +10,8 @@ Passionate about building scalable web applications, learning AI/ML, and solving
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **full-stack & SaaS projects**
-- 🌱 Learning **Machine Learning & System Design**
+- 🔭 Currently working on **full-stack projects**
+- 🌱 Learning **System Design**
 - 💬 Ask me about **React, Node.js, APIs, Databases**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/anujrajmish)** or **anujraj24go@gmail.com**
 - 🌐 Portfolio: https://anujrajincludemyself.github.io *(Under Construction)*
