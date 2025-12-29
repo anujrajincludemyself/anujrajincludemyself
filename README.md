@@ -84,3 +84,6 @@ Passionate about building scalable web applications, learning AI/ML, and solving
 ---
 
 ✨ *Always learning. Always building.*
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
