@@ -69,6 +69,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=anujrajincludemyself&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center">
+  
+![snake gif](https://github.com/anujrajincludemyself/anujrajincludemyself/blob/output/github-snake-dark.svg)
+
+  
+</div>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anujrajincludemyself&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -87,8 +95,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujrajincludemyself&theme=redical&hide_border=true"/>
 </p>
 
+
 ---
 
 ✨ *Always learning. Always building.*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
+
