@@ -63,13 +63,14 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
+<div align="center">
+  
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anujrajincludemyself&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
+
   
 ![snake gif](https://github.com/anujrajincludemyself/anujrajincludemyself/blob/output/github-snake-dark.svg)
 
