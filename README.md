@@ -70,12 +70,12 @@
 <div align="center">
   
 # 📊 GitHub Stats
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=anujrajincludemyself&theme=tokyonight)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anujrajincludemyself&show_icons=true&theme=tokyonight" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=anujrajincludemyself&theme=tokyonight" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&theme=tokyonight" />
 
 
 
