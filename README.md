@@ -70,9 +70,13 @@
 <div align="center">
   
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anujrajincludemyself&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anujrajincludemyself&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&theme=tokyonight)
+
 
 
   
@@ -106,6 +110,6 @@
 
 ✨ *Always learning. Always building.*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&hide=javascript,css,scss,html&theme=tokyonight)
 
 
