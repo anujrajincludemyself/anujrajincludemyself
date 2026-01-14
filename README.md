@@ -84,7 +84,6 @@
 
   
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/anujsolveproblem24242?theme=dark&font=Libre%20Barcode%2039%20Extended&ext=heatmap)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anujrajincludemyself&limit=5&theme=dark&combine_all_yearly_contributions=true)
