@@ -76,15 +76,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujrajincludemyself&theme=radical&hide_border=true" width="48%" />
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujrajincludemyself&theme=react-dark&hide_border=true" />
-</p>
-
----
 
 ## 🧠 Top Languages
 
@@ -112,12 +103,6 @@
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🔥 Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujrajincludemyself&theme=redical&hide_border=true"/>
-</p>
 
 
 ---
