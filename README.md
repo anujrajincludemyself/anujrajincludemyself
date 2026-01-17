@@ -69,29 +69,48 @@
 ---
 <div align="center">
   
-# 📊 GitHub Stats
+# 👋 Hi, I'm YOUR_USERNAME
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&theme=radical&cache_seconds=300)
-![GitHub Streak](https://streak-stats.demolab.com?user=anujrajincludemyself&theme=radical&cache_seconds=300)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=300)
+## 📊 GitHub Stats
 
-
-
-  
-![snake gif](https://github.com/anujrajincludemyself/anujrajincludemyself/blob/output/github-snake-dark.svg)
-
-  
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anujrajincludemyself&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=anujrajincludemyself&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Contribution Activity
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anujraj24gb)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=true" width="45%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🕒 Productive Time (UTC +5:30)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical&utcOffset=5.5" />
+</p>
+
 
 </div>
 
