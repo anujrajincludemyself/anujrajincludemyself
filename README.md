@@ -73,8 +73,6 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anujrajincludemyself&theme=radical&cache_seconds=300)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=300)
-
 
 
   
@@ -107,5 +105,4 @@
 
 ✨ *Always learning. Always building.*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&theme=radical&cache_seconds=300)
 
