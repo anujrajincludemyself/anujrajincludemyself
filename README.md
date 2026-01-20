@@ -72,8 +72,11 @@
 # 📊 GitHub Stats
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anujrajincludemyself&theme=radical&cache_seconds=300)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujrajincludemyself&show_icons=true&locale=en&layout=compact" alt="anujrajincludemyself" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&locale=en" alt="anujrajincludemyself" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujrajincludemyself&" alt="anujrajincludemyself" /></p>
 
   
 ![snake gif](https://github.com/anujrajincludemyself/anujrajincludemyself/blob/output/github-snake-dark.svg)
