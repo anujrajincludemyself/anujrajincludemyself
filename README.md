@@ -17,6 +17,15 @@
 
 ---
 
+<div aling="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujrajincludemyself&show_icons=true&locale=en&layout=compact" alt="anujrajincludemyself" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&locale=en" alt="anujrajincludemyself" /></p>
+
+</div>
+
+
+    
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -68,17 +77,8 @@
 
 ---
 <div align="center">
-  
-# 📊 GitHub Stats
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujrajincludemyself&show_icons=true&locale=en&layout=compact" alt="anujrajincludemyself" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&locale=en" alt="anujrajincludemyself" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujrajincludemyself&" alt="anujrajincludemyself" /></p>
-
-  
 ![snake gif](https://github.com/anujrajincludemyself/anujrajincludemyself/blob/output/github-snake-dark.svg)
 
   
