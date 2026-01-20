@@ -98,10 +98,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🔥 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujrajincludemyself&theme=redical&hide_border=true"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant7023&" alt="prashant7023" /></p></p>
 
 
 ---
