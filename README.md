@@ -34,7 +34,7 @@
     </picture>
 
 &nbsp;&nbsp;&nbsp;
-
+<div align="center">
  <picture>
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&langs_count=8&theme=default">
@@ -43,7 +43,7 @@
       <img height="180em"
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&langs_count=8&theme=default" />
     </picture>
-
+</div>
   </a>
 </p>
 
