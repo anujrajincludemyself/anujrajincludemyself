@@ -18,12 +18,36 @@
 
 ---
 
-<div aling="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujrajincludemyself&show_icons=true&locale=en&layout=compact" alt="anujrajincludemyself" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujrajincludemyself&show_icons=true&locale=en" alt="anujrajincludemyself" /></p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/anujrajincludemyself">
+    
+<picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=anujrajincludemyself&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=anujrajincludemyself&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+      <img height="180em"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=anujrajincludemyself&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+    </picture>
+
+&nbsp;&nbsp;&nbsp;
+
+ <picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&langs_count=8&theme=default">
+      <source media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&langs_count=8&theme=default">
+      <img height="180em"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&langs_count=8&theme=default" />
+    </picture>
+
+  </a>
+</p>
+
+
+
 
 
     
