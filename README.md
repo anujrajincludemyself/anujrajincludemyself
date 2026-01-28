@@ -122,8 +122,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=anujrajincludemyself&theme=dark" />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujrajincludemyself&" alt="anujrajincludemyself" /></p>
   </a>
 </div>
 
