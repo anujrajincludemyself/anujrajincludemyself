@@ -10,7 +10,9 @@
 ⚡ Fun fact I Don't want to tell  
 
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
 
 ---
 
