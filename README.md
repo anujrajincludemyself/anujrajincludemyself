@@ -109,7 +109,17 @@
 <div align="center">
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/anujsolveproblem24242?theme=dark&font=Baloo&ext=heatmap)
+
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+ 
+<p align="center">
+<a href="https://leetcode.com/anujsolveproblem24242/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="180" />
+</a>
+</p>
+</p>
 
 
 ![snake gif](https://github.com/anujrajincludemyself/anujrajincludemyself/blob/output/github-snake-dark.svg)
