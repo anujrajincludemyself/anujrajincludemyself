@@ -109,6 +109,9 @@
 <div align="center">
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/anujsolveproblem24242?theme=dark&font=Baloo&ext=heatmap)
+
+
 ![snake gif](https://github.com/anujrajincludemyself/anujrajincludemyself/blob/output/github-snake-dark.svg)
 
   
