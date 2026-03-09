@@ -116,7 +116,7 @@
  
 <p align="center">
 <a href="https://leetcode.com/anujsolveproblem24242/" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="180" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2026-50.gif" height="150" />
 </a>
 </p>
 </p>
