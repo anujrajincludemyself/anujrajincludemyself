@@ -1,12 +1,11 @@
 
 
-🔭 I’m currently working on Full Stack Projects  
+I’m currently working on Full Stack Projects  
+I’m looking to collaborate on LinkedIn  
 
-👯 I’m looking to collaborate on LinkedIn  
+ I’m currently learning DevOps  
 
-🌱 I’m currently learning DevOps  
-
-⚡ Fun fact I Don't want to tell  
+ Fun fact I Don't want to tell  
 
 
 
