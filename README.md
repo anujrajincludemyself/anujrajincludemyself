@@ -1,8 +1,7 @@
-I’m currently working on Full Stack Projects  
-I’m looking to collaborate on LinkedIn  
-I’m currently learning DevOps  
-Fun fact I Don't want to tell  
-
+Full-stack developer with experience across building production apps contributing to a SaaS
+CRM conducting ML research Comfortable across the entire stack from React Native and
+Next.js on the frontend to Node.js, Prisma, and PostgreSQL
+on the backend.
 
 
 
