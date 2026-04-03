@@ -150,8 +150,6 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 
 ---
 
-# 👀 Profile Visitors
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=anujrajincludemyself&style=for-the-badge&color=blueviolet" />
