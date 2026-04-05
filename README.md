@@ -44,9 +44,10 @@ Comfortable across the entire stack — from **React Native** and **Next.js** on
 src="https://github-readme-stats-eight-theta.vercel.app/api?username=anujrajincludemyself&show_icons=true&include_all_commits=true&count_private=true" />
 
 <img height="180em"
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&langs_count=8" />
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&langs_count=8&hide=css,html" />
 
 </div>
+
 
 
 ---
