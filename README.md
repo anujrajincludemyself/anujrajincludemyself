@@ -36,8 +36,6 @@ Comfortable across the entire stack — from **React Native** and **Next.js** on
 ---
 
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
 <img height="180em"
