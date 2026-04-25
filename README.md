@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <h1 align="center">
-  Hi 👋 I'm Anuj Raj
+👋 I'm Anuj Raj
 </h1>
 
 <p align="center">
