@@ -111,11 +111,6 @@ timeline
 
 ## Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujrajincludemyself&theme=react-dark&hide_border=true&bg_color=00000000&color=00BFFF&line=00BFFF&point=ffffff" width="100%"/>
-
-</div>
 
 <br/>
 
