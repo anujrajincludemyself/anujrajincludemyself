@@ -1,159 +1,123 @@
 <div align="center">
 
-```
-   █████╗ ███╗   ██╗██╗   ██╗     ██╗
-  ██╔══██╗████╗  ██║██║   ██║     ██║
-  ███████║██╔██╗ ██║██║   ██║     ██║
-  ██╔══██║██║╚██╗██║██║   ██║██   ██║
-  ██║  ██║██║ ╚████║╚██████╔╝╚█████╔╝
-  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚════╝
-```
+# Anuj Raj
+### `v4.2.0` — currently in active development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=900&color=00BFFF&center=true&vCenter=true&width=600&lines=Booting+developer.exe...;Loading+modules%3A+react%2C+node%2C+pytorch...;Compiling+production+builds...;System+ready.+Welcome." />
-
-<br/>
-
-`STATUS` ![](https://img.shields.io/badge/-ONLINE-0d1117?style=flat-square&logoColor=00BFFF&labelColor=0d1117&color=0d1117) &nbsp;
-`MARKET` ![](https://img.shields.io/badge/-DEV.EXCHANGE-0d1117?style=flat-square&labelColor=0d1117&color=0d1117) &nbsp;
-`SESSION` ![](https://img.shields.io/badge/-OPEN-0d1117?style=flat-square&labelColor=0d1117&color=00BFFF)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=560&lines=full-stack+developer;SaaS+%2F+CRM+systems+builder;teaching+myself+ML+on+the+side" />
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+## changelog.md
 
-```bash
-anuj@dev:~$ whoami
+```diff
+v4.2.0  (current)
++ Deep-diving into Machine Learning & Computer Vision
++ Fine-tuned LLMs (Ollama, Qwen) into production tooling
++ Shipped multi-tenant SaaS CRM with real billing + auth
+
+v3.0.0
++ Became comfortable across the full stack — frontend to DB
++ Started contributing to production-grade SaaS systems
+
+v2.0.0
++ Learned React, Next.js, Node.js — first real apps shipped
+
+v1.0.0
++ Initial release. Wrote first "Hello World" in C.
 ```
-```yaml
-name        : Anuj Raj
-role        : Full-Stack Developer
-based_in    : building SaaS / CRM systems in production
-stack       : React Native · Next.js · Node.js · Prisma · PostgreSQL
-side_quest  : Machine Learning + Computer Vision
-status      : shipping, always
-```
-
-```bash
-anuj@dev:~$ cat philosophy.txt
-```
-> I don't just write code that runs — I write code that survives
-> production traffic, edge cases, and 2am bug reports. Currently
-> teaching myself ML on the side because curiosity doesn't ask
-> permission.
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anujrajincludemyself&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
-```bash
-anuj@dev:~$ ./market_ticker.sh --watchlist=languages
+## How my brain is wired
+
+```mermaid
+mindmap
+  root((Anuj Raj))
+    Frontend
+      React
+      Next.js
+      React Native
+      Tailwind
+    Backend
+      Node.js
+      Express
+      FastAPI
+      Django
+    Data
+      PostgreSQL
+      MongoDB
+      Supabase
+    Exploring
+      PyTorch
+      Computer Vision
+      LLM fine-tuning
 ```
+
+<br/>
+
+## How I actually debug
+
+```mermaid
+flowchart LR
+    A[Bug reported] --> B{Can I reproduce it?}
+    B -- No --> C[Close as 'works on my machine']
+    B -- Yes --> D[Add console.log everywhere]
+    D --> E{Found it?}
+    E -- No --> F[Blame the framework]
+    E -- Yes --> G[Fix + write a test]
+    F --> D
+    G --> H[Ship it 🚀]
+```
+
+<br/>
+
+## Journey so far
+
+```mermaid
+timeline
+    title Building things, one ship at a time
+    Year 1 : Learned C / C++ fundamentals 
+           : First competitive programming problems
+           : javascript / css 
+           : reactjs
+    Year 2 : Picked up React & Next.js
+           : Built first full-stack apps
+           : Started Cp
+    Year 3 : Joined production SaaS CRM team
+           : Joined an Healtcare firm as SDE Intern
+           : Started ML / Computer Vision exploration
+           : Fine-tuned LLMs into real software
+    Now    : Shipping daily, learning ML deeply
+           : Looking for 6 month intern 
+           : Currently learnign Gen-AI and ML
+```
+
+<br/>
+
+## Stats that actually update themselves
 
 <div align="center">
 
-| ticker | language | weight | 24h |
-|:---:|:---|---:|:---:|
-| `$JS` | JavaScript | `69.80%` | ![up](https://img.shields.io/badge/▲-00C805?style=flat-square&label=&color=0d1117) |
-| `$TS` | TypeScript | `17.57%` | ![up](https://img.shields.io/badge/▲-00C805?style=flat-square&label=&color=0d1117) |
-| `$PY` | Python | `11.85%` | ![up](https://img.shields.io/badge/▲-00C805?style=flat-square&label=&color=0d1117) |
-| `$TEX` | TeX | `0.33%` | ![flat](https://img.shields.io/badge/▬-888780?style=flat-square&label=&color=0d1117) |
-| `$KT` | Kotlin | `0.28%` | ![flat](https://img.shields.io/badge/▬-888780?style=flat-square&label=&color=0d1117) |
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anujrajincludemyself&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&langs_count=8&hide=css,html&theme=dark&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=c9d1d9" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujrajincludemyself&theme=dark&hide_border=true&background=00000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="60%"/>
 
 </div>
 
 <br/>
 
-```bash
-anuj@dev:~$ ls ./tech-stack/ --portfolio
-```
-
-<table width="100%">
-<tr>
-<td valign="top" width="25%">
-
-**core**
-```diff
-+ C / C++
-+ JavaScript
-+ Python
-+ Kotlin
-```
-
-</td>
-<td valign="top" width="25%">
-
-**frontend**
-```diff
-+ React
-+ Next.js
-+ React Native
-+ Tailwind
-+ Redux
-```
-
-</td>
-<td valign="top" width="25%">
-
-**backend**
-```diff
-+ Node.js
-+ Express
-+ FastAPI
-+ Django
-+ JWT
-```
-
-</td>
-<td valign="top" width="25%">
-
-**data**
-```diff
-+ PostgreSQL
-+ MongoDB
-+ MySQL
-+ Supabase
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-```bash
-anuj@dev:~$ git log --stat --since="this year"
-```
+## Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujrajincludemyself&layout=compact&langs_count=8&hide=css,html&theme=dark&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujrajincludemyself&theme=dark&hide_border=true&background=00000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujrajincludemyself&theme=react-dark&hide_border=true&bg_color=00000000&color=00BFFF&line=00BFFF&point=ffffff" width="100%"/>
 
 </div>
 
 <br/>
-
-```bash
-anuj@dev:~$ ./show_activity.sh --chart=candlestick
-```
-
-<br/>
-
-```bash
-anuj@dev:~$ git log --oneline --graph
-```
 
 <div align="center">
 
@@ -163,34 +127,13 @@ anuj@dev:~$ git log --oneline --graph
 
 <br/>
 
-<details>
-<summary><b>📈 trade log — recent commits as positions</b> <i>(click to expand)</i></summary>
-
-<br/>
-
-```diff
-+ [LONG]  SaaS CRM Platform        — multi-tenant auth/billing shipped to prod
-+ [LONG]  ML Vision Pipeline       — dense correspondence model, training ongoing
-+ [LONG]  RIP Software Integration — LLM (Ollama) wired into production tooling
-~ [HOLD]  Portfolio Site           — anujraj.me, iterating on UI
-+ [LONG]  Open Source Contributions — 4 repos contributed to this year
-```
-
-> *Past performance (commit streaks) is not indicative of future bugs.*
-
-</details>
-
-<br/>
-
-```bash
-anuj@dev:~$ cat projects/featured.md
-```
+## Featured releases
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### `01` SaaS CRM Platform `$CRM`
+### `saas-crm` <sub>v2.1.0</sub>
 ```diff
 + multi-tenant architecture
 + auth + billing + real-time dashboards
@@ -202,7 +145,7 @@ anuj@dev:~$ cat projects/featured.md
 </td>
 <td width="50%" valign="top">
 
-### `02` ML / Computer Vision lab `$MLCV`
+### `ml-vision-lab` <sub>v0.6.0-beta</sub>
 ```diff
 + vision transformer experiments
 + model fine-tuning pipelines
@@ -217,9 +160,7 @@ anuj@dev:~$ cat projects/featured.md
 
 <br/>
 
-```bash
-anuj@dev:~$ curl leetcode.com/anujsolveproblem24242
-```
+## Competitive programming
 
 <div align="center">
 
@@ -231,18 +172,7 @@ anuj@dev:~$ curl leetcode.com/anujsolveproblem24242
 
 <br/>
 
-```bash
-anuj@dev:~$ cat contact.json
-```
-```json
-{
-  "linkedin"  : "linkedin.com/in/anujraj24",
-  "email"     : "anujraj24go@gmail.com",
-  "portfolio" : "anujraj.me",
-  "instagram" : "instagram.com/anuj.user",
-  "status"    : "open to interesting conversations"
-}
-```
+## Open an issue with me
 
 <div align="center">
 
@@ -257,8 +187,6 @@ anuj@dev:~$ cat contact.json
 
 <div align="center">
 
-```
-> market closed. process exited with code 0 — see you in the commits.
-```
+`EOF` — end of README, not end of shipping.
 
 </div>
