@@ -9,24 +9,9 @@
 
 <br/>
 
-## changelog.md
-
-```diff
-v4.2.0  (current)
-+ Deep-diving into Machine Learning & Computer Vision
-+ Fine-tuned LLMs (Ollama, Qwen) into production tooling
-+ Shipped multi-tenant SaaS CRM with real billing + auth
-
-v3.0.0
-+ Became comfortable across the full stack — frontend to DB
-+ Started contributing to production-grade SaaS systems
-
-v2.0.0
-+ Learned React, Next.js, Node.js — first real apps shipped
-
-v1.0.0
-+ Initial release. Wrote first "Hello World" in C.
-```
+<div align="center">
+<img src="profile-banner.svg" width="100%"/>
+</div>
 
 <br/>
 
