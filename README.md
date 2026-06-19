@@ -15,46 +15,11 @@
 
 <br/>
 
-## How my brain is wired
 
-```mermaid
-mindmap
-  root((Anuj Raj))
-    Frontend
-      React
-      Next.js
-      React Native
-      Tailwind
-    Backend
-      Node.js
-      Express
-      FastAPI
-      Django
-    Data
-      PostgreSQL
-      MongoDB
-      Supabase
-    Exploring
-      PyTorch
-      Computer Vision
-      LLM fine-tuning
-```
 
 <br/>
 
-## How I actually debug
 
-```mermaid
-flowchart LR
-    A[Bug reported] --> B{Can I reproduce it?}
-    B -- No --> C[Close as 'works on my machine']
-    B -- Yes --> D[Add console.log everywhere]
-    D --> E{Found it?}
-    E -- No --> F[Blame the framework]
-    E -- Yes --> G[Fix + write a test]
-    F --> D
-    G --> H[Ship it 🚀]
-```
 
 <br/>
 
