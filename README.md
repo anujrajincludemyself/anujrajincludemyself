@@ -60,9 +60,6 @@ timeline
 
 <br/>
 
-## Activity
-
-
 <br/>
 
 <div align="center">
@@ -72,36 +69,6 @@ timeline
 
 <br/>
 
-## Featured releases
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### `saas-crm` <sub>v2.1.0</sub>
-```diff
-+ multi-tenant architecture
-+ auth + billing + real-time dashboards
-+ production traffic, not a toy project
-```
-`Next.js` `Node.js` `Prisma` `PostgreSQL`
-[`→ view repo`](https://github.com/anujrajincludemyself)
-
-</td>
-<td width="50%" valign="top">
-
-### `ml-vision-lab` <sub>v0.6.0-beta</sub>
-```diff
-+ vision transformer experiments
-+ model fine-tuning pipelines
-+ end-to-end training → deployment
-```
-`PyTorch` `Python` `OpenCV`
-[`→ view repo`](https://github.com/anujrajincludemyself)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -110,8 +77,7 @@ timeline
 <div align="center">
 
 <a href="https://leetcode.com/anujsolveproblem24242/">
-<img src="https://leetcode-stats-card.vercel.app/api?username=anujsolveproblem24242&theme=dark&hide_border=true&background=00000000" />
-</a>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="180"/></a>
 
 </div>
 
