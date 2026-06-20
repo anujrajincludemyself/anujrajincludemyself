@@ -2,6 +2,7 @@
 
 # Anuj Raj
 ### `v4.2.0` — currently in active development
+<img src="https://github.com/anujrajincludemyself/anujrajincludemyself/blob/output/github-snake-dark.svg" height="800" width="300%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=560&lines=full-stack+developer;SaaS+%2F+CRM+systems+builder;teaching+myself+ML+on+the+side" />
 
@@ -66,7 +67,6 @@ timeline
 
 <div align="center">
 
-<img src="https://github.com/anujrajincludemyself/anujrajincludemyself/blob/output/github-snake-dark.svg" width="100%"/>
 
 </div>
 
