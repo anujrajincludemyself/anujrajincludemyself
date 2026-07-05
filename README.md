@@ -82,7 +82,6 @@ timeline
 </div>
 
 <br/>
-
 ## Open an issue with me
 
 <div align="center">
